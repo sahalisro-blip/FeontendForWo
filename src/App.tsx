@@ -1,10 +1,10 @@
-import { Button } from "./components/ui/button"
+import Datamodel from "./components/Datamodel"
+
 function App() {
 
   return (
     <>
-      <h1 className='text-amber-500 text-3xl'>hello there</h1>
-      <Button />
+      <Datamodel />
     </>
   )
 }
